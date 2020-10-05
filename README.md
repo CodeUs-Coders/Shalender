@@ -1,5 +1,5 @@
 ## CodeUs 팀프로젝트 | 일정공유 SNS
-Share your calendar, share your life
+Share your calendar, share your life 
 
 ## Shalendar
 ![대체텍스트](/Front-End/src/components/common/images/shalendar.gif "마우스 대면 나와요")
